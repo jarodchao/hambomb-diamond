@@ -1,1 +1,1 @@
-# hambomb-diamond
+# hambomb-polaris
